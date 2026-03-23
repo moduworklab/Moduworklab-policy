@@ -8,6 +8,9 @@ Moduwork Lab ("we," "our," or "us") is committed to protecting your privacy. Thi
 This policy applies to the following apps (including but not limited to):
 * **MathPick** (AI Math Solver)
 * **KAIRIS** (AI Tarot & Fortune Teller)
+* **Mongle**
+* **Namu Chef** (AI Family Recipe & Baby Food)
+* **SnapPark**
 * (Add new app names here in the future)
 
 ---
@@ -27,6 +30,10 @@ For Apps providing fortune-telling or tarot reading, we process the text data yo
 #### 1.3 Financial & Ledger Data (Future Services)
 For business management or freight ledger Apps, numerical data is stored locally on your device unless you explicitly opt-in to cloud backup features.
 
+### 1.4 Family Profile Data (e.g., Namu Chef)
+- **Usage:** To provide age-appropriate recipes (e.g., baby food stages), we process family profile information such as birthdates, names, and food allergies.
+- **Storage:** This data is stored securely using Google Firebase and is linked to an anonymous User ID to protect your privacy.
+
 ### 2. Personal Data
 We do not knowingly collect, store, or share any personally identifiable information (PII) such as your name, residential address, or phone number.
 
@@ -42,3 +49,8 @@ Our Apps are intended for general audiences. We do not knowingly collect persona
 ### 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 **Email: moduwork.lab@gmail.com**
+
+### 6. Data Deletion & Account Withdrawal
+Users have the right to delete their data at any time.
+In-App Deletion: You can permanently delete your profile, family data, and cooking history by using the 'Delete Account' or 'Reset Data' button within the App's settings menu.
+Request via Email: If you have uninstalled the App and wish to request the deletion of your remaining data, please contact us at moduwork.lab@gmail.com. We will process your request within 7 business days.
