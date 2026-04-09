@@ -11,6 +11,7 @@ This policy applies to the following apps (including but not limited to):
 * **Mongle**
 * **Namu Chef** (AI Family Recipe & Baby Food)
 * **SnapPark**
+* **Zenblock (Block Puzzle Game)**
 * (Add new app names here in the future)
 
 ---
