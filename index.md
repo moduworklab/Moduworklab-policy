@@ -8,9 +8,9 @@ Moduwork Lab ("we," "our," or "us") is committed to protecting your privacy. Thi
 This policy applies to the following apps (including but not limited to):
 * **MathPick** (AI Math Solver)
 * **KAIRIS** (AI Tarot & Fortune Teller)
-* **Mongle**
+* **Mongle (AI Dream Interpretation)**
 * **Namu Chef** (AI Family Recipe & Baby Food)
-* **SnapPark**
+* **SnapPark (Find My Car & Parking Tracker)**
 * **Zenblock (Block Puzzle Game)**
 * (Add new app names here in the future)
 
