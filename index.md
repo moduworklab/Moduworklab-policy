@@ -1,6 +1,6 @@
 # Privacy Policy for Apps by Moduwork Lab
 
-**Last updated: March 1, 2026**
+**Last updated: April 1, 2026**
 
 Moduwork Lab ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy applies to all mobile applications developed by Moduwork Lab.
 
