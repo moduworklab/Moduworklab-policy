@@ -12,6 +12,7 @@ This policy applies to the following apps (including but not limited to):
 * **Namu Chef** (AI Family Recipe & Baby Food)
 * **SnapPark (Find My Car & Parking Tracker)**
 * **Zenblock (Block Puzzle Game)**
+* **Pixel & Sudoku (Nonogram & Sudoku Puzzle Game)**
 * (Add new app names here in the future)
 
 ---
