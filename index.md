@@ -9,10 +9,14 @@ This policy applies to the following apps (including but not limited to):
 * **MathPick** (AI Math Solver)
 * **KAIRIS** (AI Tarot & Fortune Teller)
 * **Mongle (AI Dream Interpretation)**
-* **Namu Chef** (AI Family Recipe & Baby Food)
 * **SnapPark (Find My Car & Parking Tracker)**
+* **Namu Chef** (AI Family Recipe & Baby Food)
 * **Zenblock (Block Puzzle Game)**
 * **Pixel & Sudoku (Nonogram & Sudoku Puzzle Game)**
+* **clay sort puzzle**
+* **Tarot match**
+* **Just timer**
+* **Tabata fit**
 * (Add new app names here in the future)
 
 ---
